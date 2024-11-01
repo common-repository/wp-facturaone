@@ -1,0 +1,20 @@
+li.FONE_currentsubcategory_parent a.FONE_currlink {
+    color: #000;
+    background: transparent;
+    width: 100%;
+    display: inline-block;
+}
+.FONE_currentsubcategory_parent {
+	list-style: none;
+	margin-left:0px !important;
+}
+.FONE_currentsubcategories {
+	margin-bottom: 25px;
+}
+.FONE_currentsubcategory {
+    position: relative;
+    margin-bottom: 3px !important;
+}
+ul.FONE_currentsubcategory li {
+    list-style: none;
+}
